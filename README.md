@@ -1,8 +1,8 @@
 
 Naan Mudhalvan project
 
-Name : Vaishnavi S
-Reg no. :731121205054
+Name : kutraleeswaran s
+Reg no. :731121205022
 college : Government College of Engineering,Erode.
 
 To login in project:
